@@ -71,6 +71,5 @@ ordered_import_images()
 Notes on Results
 - When the analysis data is displayed as an image, dark areas correspond to areas of low CoV percentage and light areas correspond to areas of high
   Cov percentage
-- Data exported to an Excel file can be heat-mapped for easy visualization of the data. This can be done in Excel by going to 
-  Home -> Conditional Formatting -> Color Scales -> Red - Yellow - Green Color Scale. This causes areas of high CoV to appear more red and areas of
+- Data exported to an Excel file can be heat-mapped for easy visualization of the data. This can be done in Excel by going to Home -> Conditional Formatting -> Color Scales -> Red - Yellow - Green Color Scale. This causes areas of high CoV to appear more red and areas of
   low CoV to appear more green
